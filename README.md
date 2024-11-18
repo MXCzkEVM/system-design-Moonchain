@@ -12,8 +12,6 @@ On the other hand, Web3 offers a paradigm shift by decentralizing these componen
 
 Learning how to design scalable systems will help you become a better engineer.
 
-[Web2 Resources](Web2.md)
-
 
 ## Important parts for setting up a decentralized application (dApp)
 <p align="center">
@@ -90,6 +88,10 @@ Learning how to design scalable systems will help you become a better engineer.
     * Frontend Performance:
         * Employ decentralized CDNs or peer-to-peer networks for low-latency access.
 
+## Resources related to Web2-based system architecture
+[Web2 Resources](#Web2.md)
+
+
 ## Important parts for setting up a Web2 application
 <p align="center">
   <img src="images/jj3A5N8.png">
@@ -139,8 +141,7 @@ Identify and address bottlenecks, given the constraints.  For example, do you ne
 * Database sharding
 
 ## Resources related to Web2-based system architecture
-
-
+[Web2 Resources](#Web2.md)
 
 ## Credits
 
@@ -150,12 +151,4 @@ Special thanks to:
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-## License
 
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
-
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/
