@@ -88,9 +88,6 @@ Learning how to design scalable systems will help you become a better engineer.
     * Frontend Performance:
         * Employ decentralized CDNs or peer-to-peer networks for low-latency access.
 
-## Resources related to Web2-based system architecture
-[Web2 Resources](#Web2.md)
-
 
 ## Important parts for setting up a Web2 application
 <p align="center">
