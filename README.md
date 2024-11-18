@@ -138,7 +138,7 @@ Identify and address bottlenecks, given the constraints.  For example, do you ne
 * Database sharding
 
 ## Resources related to Web2-based system architecture
-[Web2 Resources](#Web2.md)
+[Web2 Resources](Web2.md)
 
 ## Credits
 
