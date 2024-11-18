@@ -1,4 +1,4 @@
-README
+Web2
 ------
 
 This repo is an **organized collection** of resources to help you learn how to build **Web2** systems at scale.
@@ -73,8 +73,6 @@ This repo is an **organized collection** of resources to help you learn how to b
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
 * [Security](#security)
-* [Credits](#credits)
-* [License](#license)
 
 ## Web2 System design topics: start here
 
