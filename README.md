@@ -12,7 +12,6 @@ On the other hand, Web3 offers a paradigm shift by decentralizing these componen
 
 Learning how to design scalable systems will help you become a better engineer.
 
-
 ## Important parts for setting up a decentralized application (dApp)
 <p align="center">
   <img src="images/diagram.png">
@@ -147,5 +146,4 @@ Credits and sources are provided throughout this repo.
 Special thanks to:
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
 
