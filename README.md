@@ -12,7 +12,7 @@ On the other hand, Web3 offers a paradigm shift by decentralizing these componen
 
 Learning how to design scalable systems will help you become a better engineer.
 
-[Web2 Resources](#TEST.md)
+[Web2 Resources](TEST.md)
 
 
 ## Important parts for setting up a decentralized application (dApp)
